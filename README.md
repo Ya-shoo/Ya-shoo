@@ -1,8 +1,5 @@
 <!-- Banner: ASCII manta + eagle ray in the Lagoon palette, under a liquid-glass card. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="hi, I'm yush" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="hi, I'm yush" src="assets/banner-light.svg" width="100%">
 
 
 Building [Soltrix](https://thesoltrix.com).
