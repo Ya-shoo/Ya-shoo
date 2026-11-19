@@ -1,5 +1,5 @@
 <!-- Banner: ASCII manta, eagle ray and leopard shark swimming under a liquid-glass card (Lagoon palette). -->
-<img alt="hi, I'm yash" src="assets/banner-13a5e3a1.svg" width="100%">
+<img alt="hi, I'm yash" src="assets/banner-75607a11.svg" width="100%">
 
 
 Building [Soltrix](https://thesoltrix.com).
